@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyDataApp</string>
+    <string name="login_title">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="welcome_message">Selamat Datang</string>
+    <string name="nim_hint">NIM</string>
+    <string name="nama_hint">Nama Lengkap</string>
+    <string name="prodi_hint">Program Studi</string>
+    <string name="kelas_hint">Kelas</string>
+    <string name="alamat_hint">Alamat</string>
+    <string name="email_hint">E-Mail</string>
+    <string name="tambah_data_button">Tambah Data</string>
+    <string name="logout_button">Logout</string>
+    <string name="error_empty">Username dan Password tidak boleh kosong</string>
+    <string name="error_invalid">Username atau Password salah</string>
+</resources>
